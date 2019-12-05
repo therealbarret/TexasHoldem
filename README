@@ -1,0 +1,12 @@
+README
+
+This program emulates a game of Texas Hold'em.  There is a max of 4 players with the 5th player being the 'bank' or 'dealer'.
+Each player is assigned a name after the deck has been dealt.  There is a hand evaluation running to compare each player hands
+to what is dealt.  
+
+Improvements to be made: 
+
+1) Decidiing a winner
+2) Possible bank for each player 
+
+No GUI is available as this is only through command line/output window of IDE. 
