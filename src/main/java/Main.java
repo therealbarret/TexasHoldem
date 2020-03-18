@@ -42,9 +42,6 @@ public class Main
             }
         }
 
-        //Create pot
-
-
         //Deal arrayofCards
         board.setBurnCard(TexasHoldEm.getCard(Card++), Burn++);
 
